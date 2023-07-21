@@ -4,12 +4,12 @@
 
 游戏宅，画画的，当然也写代码。是 [@preccrep](https://github.com/preccrep) 的重制版。
 
-## 💬 Worked language for me
+## 🛠️ Tech Stack
 
 - [x] ⁢⁢⁣⁡Swift / Objective-C
-- [x] Kotlin / Java
-- [x] ⁢⁣⁡Python / TypeScript / JavaScript
 - [x] ⁢⁣⁡C / C++
+- [x] Python
+- [x] GDScript / C#
 
 ## 📮 How to reach me
 
